@@ -1,0 +1,69 @@
+{
+   "checksum": "9e2646aca3ddbb39d570f567a225738c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13335039015704457",
+            "date_last_used": "13348007778039863",
+            "guid": "6ff74ba0-00e1-4fc1-88b8-d3907d21603e",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13335038893504134",
+         "date_last_used": "0",
+         "date_modified": "13335985513164981",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13347750315194733",
+            "date_last_used": "13347822766603432",
+            "guid": "37d81f56-757b-4fb3-bf53-c33752628aa4",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mutable references - Easy Rust",
+            "type": "url",
+            "url": "https://dhghomon.github.io/easy_rust/Chapter_17.html"
+         }, {
+            "date_added": "13347754516224239",
+            "date_last_used": "0",
+            "guid": "b9714e6d-acfb-4e1e-9046-f31bd42af7f3",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Interior mutability - Easy Rust",
+            "type": "url",
+            "url": "https://dhghomon.github.io/easy_rust/Chapter_41.html"
+         } ],
+         "date_added": "13335038893504137",
+         "date_last_used": "0",
+         "date_modified": "13347754516224239",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13335038893504139",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

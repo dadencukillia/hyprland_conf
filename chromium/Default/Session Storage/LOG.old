@@ -1,0 +1,9 @@
+2024/01/02-12:06:10.470 4 Reusing MANIFEST /home/crocoby/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/01/02-12:06:10.477 4 Recovering log #275
+2024/01/02-12:06:10.478 4 Reusing old log /home/crocoby/.config/chromium/Default/Session Storage/000275.log 
+2024/01/02-12:58:44.931 6 Level-0 table #279: started
+2024/01/02-12:58:44.938 6 Level-0 table #279: 53139 bytes OK
+2024/01/02-12:58:44.944 6 Delete type=0 #275
+2024/01/02-13:28:20.899 4 Level-0 table #281: started
+2024/01/02-13:28:20.905 4 Level-0 table #281: 19725 bytes OK
+2024/01/02-13:28:20.914 4 Delete type=0 #278

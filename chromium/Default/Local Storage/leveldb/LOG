@@ -1,0 +1,32 @@
+2024/01/04-14:12:35.382 4 Reusing MANIFEST /home/crocoby/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/04-14:12:35.417 4 Recovering log #1928
+2024/01/04-14:12:35.486 4 Level-0 table #1931: started
+2024/01/04-14:12:35.568 4 Level-0 table #1931: 1044513 bytes OK
+2024/01/04-14:12:35.589 4 Delete type=0 #1928
+2024/01/04-14:12:55.811 5 Level-0 table #1934: started
+2024/01/04-14:12:55.817 5 Level-0 table #1934: 78481 bytes OK
+2024/01/04-14:12:55.823 5 Delete type=0 #1932
+2024/01/04-14:12:55.824 5 Compacting 4@0 + 4@1 files
+2024/01/04-14:12:55.899 5 Generated table #1935@0: 1942 keys, 2430796 bytes
+2024/01/04-14:12:55.941 5 Generated table #1936@0: 1800 keys, 2473839 bytes
+2024/01/04-14:12:55.987 5 Generated table #1937@0: 230 keys, 2156253 bytes
+2024/01/04-14:12:56.029 5 Generated table #1938@0: 3130 keys, 2331580 bytes
+2024/01/04-14:12:56.029 5 Compacted 4@0 + 4@1 files => 9392468 bytes
+2024/01/04-14:12:56.034 5 compacted to: files[ 0 5 1 0 0 0 0 ]
+2024/01/04-14:12:56.036 5 Delete type=2 #1922
+2024/01/04-14:12:56.036 5 Delete type=2 #1923
+2024/01/04-14:12:56.036 5 Delete type=2 #1924
+2024/01/04-14:12:56.036 5 Delete type=2 #1925
+2024/01/04-14:12:56.036 5 Delete type=2 #1927
+2024/01/04-14:12:56.036 5 Delete type=2 #1929
+2024/01/04-14:12:56.036 5 Delete type=2 #1931
+2024/01/04-14:12:56.036 5 Delete type=2 #1934
+2024/01/04-14:13:38.222 5 Level-0 table #1940: started
+2024/01/04-14:13:38.246 5 Level-0 table #1940: 1055775 bytes OK
+2024/01/04-14:13:38.252 5 Delete type=0 #1933
+2024/01/04-14:15:50.002 5 Level-0 table #1942: started
+2024/01/04-14:15:50.009 5 Level-0 table #1942: 23821 bytes OK
+2024/01/04-14:15:50.016 5 Delete type=0 #1939
+2024/01/04-14:19:50.002 5 Level-0 table #1944: started
+2024/01/04-14:19:50.007 5 Level-0 table #1944: 39327 bytes OK
+2024/01/04-14:19:50.014 5 Delete type=0 #1941

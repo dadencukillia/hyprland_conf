@@ -1,0 +1,6 @@
+2023/12/31-15:25:33.506 396 Reusing MANIFEST /home/crocoby/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/31-15:25:33.507 396 Recovering log #3
+2023/12/31-15:25:33.523 396 Reusing old log /home/crocoby/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2023/12/31-15:25:49.741 393 Level-0 table #5: started
+2023/12/31-15:25:49.825 393 Level-0 table #5: 2505410 bytes OK
+2023/12/31-15:25:49.837 393 Delete type=0 #3

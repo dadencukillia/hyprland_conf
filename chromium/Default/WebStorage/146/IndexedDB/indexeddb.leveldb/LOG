@@ -1,0 +1,6 @@
+2024/01/01-13:45:45.221 6fc4 Creating DB /home/crocoby/.config/chromium/Default/WebStorage/146/IndexedDB/indexeddb.leveldb since it was missing.
+2024/01/01-13:45:45.229 6fc4 Reusing MANIFEST /home/crocoby/.config/chromium/Default/WebStorage/146/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/01-13:46:01.237 6fc4 Level-0 table #5: started
+2024/01/01-13:46:01.240 6fc4 Level-0 table #5: 1086 bytes OK
+2024/01/01-13:46:01.248 6fc4 Delete type=0 #3
+2024/01/01-13:46:01.248 6fd1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

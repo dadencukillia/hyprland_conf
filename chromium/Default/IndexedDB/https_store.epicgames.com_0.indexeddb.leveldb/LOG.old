@@ -1,0 +1,6 @@
+2023/12/25-19:40:21.803 1938 Creating DB /home/crocoby/.config/chromium/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb since it was missing.
+2023/12/25-19:40:21.809 1938 Reusing MANIFEST /home/crocoby/.config/chromium/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/25-19:40:40.016 1938 Level-0 table #5: started
+2023/12/25-19:40:40.019 1938 Level-0 table #5: 90566 bytes OK
+2023/12/25-19:40:40.023 1938 Delete type=0 #3
+2023/12/25-19:40:40.023 1938 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2024/01/04-14:12:35.780 4 Reusing MANIFEST /home/crocoby/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/01/04-14:12:35.786 4 Recovering log #280
+2024/01/04-14:12:35.788 4 Reusing old log /home/crocoby/.config/chromium/Default/Session Storage/000280.log 
+2024/01/04-14:15:28.956 4 Level-0 table #284: started
+2024/01/04-14:15:28.963 4 Level-0 table #284: 56103 bytes OK
+2024/01/04-14:15:28.969 4 Delete type=0 #280
+2024/01/04-14:15:28.970 4 Compacting 4@0 + 1@1 files
+2024/01/04-14:15:28.994 4 Generated table #285@0: 13584 keys, 316206 bytes
+2024/01/04-14:15:28.994 4 Compacted 4@0 + 1@1 files => 316206 bytes
+2024/01/04-14:15:28.998 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/04-14:15:29.000 4 Delete type=2 #274
+2024/01/04-14:15:29.000 4 Delete type=2 #276
+2024/01/04-14:15:29.000 4 Delete type=2 #279
+2024/01/04-14:15:29.000 4 Delete type=2 #281
+2024/01/04-14:15:29.000 4 Delete type=2 #284

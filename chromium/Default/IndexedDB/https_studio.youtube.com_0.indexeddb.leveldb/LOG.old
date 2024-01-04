@@ -1,0 +1,6 @@
+2023/12/03-09:43:15.642 502 Creating DB /home/crocoby/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/12/03-09:43:15.649 502 Reusing MANIFEST /home/crocoby/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/03-09:55:46.194 503 Level-0 table #5: started
+2023/12/03-09:55:46.203 503 Level-0 table #5: 5270 bytes OK
+2023/12/03-09:55:46.222 503 Delete type=0 #3
+2023/12/03-09:55:46.222 503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

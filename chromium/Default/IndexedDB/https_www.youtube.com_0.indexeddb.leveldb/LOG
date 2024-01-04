@@ -1,0 +1,6 @@
+2024/01/04-14:16:48.433 3a3 Reusing MANIFEST /home/crocoby/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/04-14:16:48.434 3a3 Recovering log #57
+2024/01/04-14:16:48.450 3a3 Reusing old log /home/crocoby/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000057.log 
+2024/01/04-14:17:37.385 3a0 Level-0 table #62: started
+2024/01/04-14:17:37.414 3a0 Level-0 table #62: 1252440 bytes OK
+2024/01/04-14:17:37.420 3a0 Delete type=0 #57
